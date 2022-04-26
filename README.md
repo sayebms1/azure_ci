@@ -2,4 +2,4 @@
 
 # Azure continuous integration
 
-<hr style="border:2px red">
+<hr style="border:2px Red">
