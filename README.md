@@ -4,5 +4,5 @@
 
 <hr style="border:2px solid blue">
 
-[![Workflow](https://i9.ytimg.com/vi/dATqOkxCe9E/mq3.jpg?sqp=CLyXoZMG&rs=AOn4CLCIbHDQVKHvyRoMipmtHYefFpZe-Q)](https://youtu.be/dATqOkxCe9E)
+[![Workflow](https://i3.ytimg.com/vi/dATqOkxCe9E/maxresdefault.jpg)](https://youtu.be/dATqOkxCe9E)
 
